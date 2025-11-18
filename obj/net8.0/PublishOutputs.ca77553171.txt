@@ -1,0 +1,5 @@
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\publish\MiProyectoNet14.exe
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\publish\MiProyectoNet14.dll
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\publish\MiProyectoNet14.deps.json
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\publish\MiProyectoNet14.runtimeconfig.json
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\publish\MiProyectoNet14.pdb

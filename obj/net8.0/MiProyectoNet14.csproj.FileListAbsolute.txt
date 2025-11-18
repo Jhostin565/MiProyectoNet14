@@ -1,0 +1,14 @@
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\MiProyectoNet14.exe
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\MiProyectoNet14.deps.json
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\MiProyectoNet14.runtimeconfig.json
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\MiProyectoNet14.dll
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\bin\net8.0\MiProyectoNet14.pdb
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.AssemblyInfoInputs.cache
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.AssemblyInfo.cs
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.csproj.CoreCompileInputs.cache
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.dll
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\refint\MiProyectoNet14.dll
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.pdb
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\MiProyectoNet14.genruntimeconfig.cache
+D:\Proyecto JetBarins\Lab14\MiProyectoNet14\obj\net8.0\ref\MiProyectoNet14.dll
