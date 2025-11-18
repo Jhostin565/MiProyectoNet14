@@ -11,4 +11,6 @@ var app = builder.Build();
 
 app.MapGet("/", () => "Hola desde mi API en Render!");
 
+app.MapGet("/healthz", () => "OK");
+//ayuda
 app.Run();
