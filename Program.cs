@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Prueba de la parte 2 laboratorio14
-Console.WriteLine("Hello, World!");
+﻿var builder = WebApplication.CreateBuilder(args);
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "3000";
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(int.Parse(port));
+});
+
+var app = builder.Build();
+
+app.MapGet("/", () => "Hola desde mi API en Render!");
+
+app.Run();
